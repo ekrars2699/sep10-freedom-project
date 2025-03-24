@@ -17,19 +17,22 @@
     <body>
         <!-- HTML -->
         <a-scene>
-            <a-box position="-7 0.5 -2" rotation="0 90 0" color="#4CC3D9" src="https://texturelabs.org/textures/brick_120/"></a-box>
-            <a-sphere position="1 2 -3" radius="1.25" color="#00FF00"></a-sphere>
+            <a-box position="-7 0.5 -2" rotation="0 90 0" color="#4CC3D9" src="Texturelabs_Brick_120S.jpg"></a-box>
+            <a-sphere position="1 2 -3" radius="1.25" color="#00FF00" segment-height="1000" src="Texturelabs_Brick_120S.jpg"></a-sphere>
             <a-cylinder position="1 0.75 -3" radius="0.2" height="1.5" color="#964B00"></a-cylinder>
             <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
             <a-sky color="#ECECEC"></a-sky>
-            <a-torus position="2 2 3" radius="2.2" roation=" -90 0 0" width="4" height="4" color="#FF0000"></a-torus>
-          </a-scene>
+            <a-torus position="2 2 3" radius="2.2" roation=" -90 0 0" width="4" height="4" color="#FF0000" geometry=primitive:box></a-torus>
+
+
+
+
+        </a-scene>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-
 
         </script>
     </body>
