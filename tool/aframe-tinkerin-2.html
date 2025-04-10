@@ -57,17 +57,20 @@
                 side:double;
             ">
         </a-entity>
-        <a-entity
+      <a-entity id="test "
+
           geometry="
           primitive:box;
           width:5;
           depth:1;
           height:1;
           segmentsWidth:10;"
-          material="color:red  fog:false"
-          particles="texture: /Texturelabs_Brick_120S.jpg; color: blue; velocity: 0 10 0; velocity-spread: 2 0 2; acceleration: 0 -10 0">
-        </a-entity>
-
+          material="color:#FF0000;  fog:false;"
+          light=" type: hemisphere; intensity: 1">
+        <a-sphere position="-1 0 1" color="blue" scale="0.5 0.5 0.5"></a-sphere>
+        <a-sphere position="-4 0 1 "></a-sphere>
+     </a-entity>
+     <a-sphere position="-4 0 2 "></a-sphere>
         <a-entity geometry="primitive: cylinder; openEnded: true; thetaLength: 180"
         material="color:#21f2ec transparent:true opacity:2"
         position="3 5 3">
