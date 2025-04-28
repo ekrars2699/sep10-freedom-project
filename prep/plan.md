@@ -6,6 +6,11 @@
 
 ## Colors
 * `#ABC123`
+* A6F4DC
+* E086D3
+* 85FF9E
+* 79ADDC
+* 508991
 
 ## Fonts
 * Bitter(<link rel="preconnect" href="https://fonts.googleapis.com">)
