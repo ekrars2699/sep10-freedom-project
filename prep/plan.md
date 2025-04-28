@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](Freedom-Wireframe-Mobile.png)
+* [Desktop](Freedom-Wireframe-Computer.png)
 
 ## Colors
 * `#ABC123`
