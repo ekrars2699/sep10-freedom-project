@@ -27,14 +27,17 @@
 
 * Task/Timeline
 ---
-4/24+25 - Content, Images + start HTML
-4/28-29 - Bootstrap components
-4/30- CSS
-5/1-2 - Grid system
-5/3-5 - Finish Grid system or work on any unfinished part of MVP
+4/24+25 - Work on plan.md
+4/28-29 - Work on content and adding images
+4/30- Bootstrap components
+5/1-2 - Grid system + CSS
+5/3-5 - Add A-frame.
 #### Beyond MVP
 
 * Task
+  More components such as card.
+  More colors
+  
 
 
 
