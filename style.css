@@ -16,3 +16,15 @@ p {
 body {
   background: #A6F4DC
 }
+.carousel-inner img {
+  margin: auto;
+}
+
+#Digital {
+  float:left;
+  width: 50%;
+}
+#Physical {
+  float: left;
+  width: 50%;
+}
