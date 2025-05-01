@@ -4,12 +4,12 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
 
-        <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
               <a class="navbar-brand" href="https://en.wikipedia.org/wiki/Forensic_science">Forensic Science</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,12 +39,19 @@
     </head>
     <body>
         <!-- HTML -->
-
+<div class ="container text-center">
+  <div class="row">
+    <div class="col-sm">
         <h1> Forensic Science</h1>
         <h1> Overview </h1>
            <p>  Forensic science is a subject that is very important to our world today. Forensic science is used to analyze evidence from crime scenes. This analysis of evidence is crucial in solving crimes, forensic scientists analyze both physical and digital evidence. These scientists have a variety of different technologies that help them preserve and do different kinds of analysis on the evidence, while being safe from any possible harmful properties from the evidence. Forensic science requires a lot of different equipment in order to successfully do its task, this website will explain the uses of a variety of technologies that are used in forensic science. This site will also have possible future technologies that could exist in the future which would greatly benefit the field of forensic science.</p>
-<div class="current">
-<div id="Physical">
+
+    </div>
+  </div>
+</div>
+
+<div id="Physical" class="container">
+
    <h1> Current Physical Evidence </h1>
            <p> <a href="https://www.excedr.com/blog/lab-equipment-list-for-forensic-analysis"> The Centrifuge:</a>
             One of the equipment listed are  Centrifuges, which freezes body fluids such as blood. This is mainly used to preserve biological evidence.
@@ -56,9 +63,10 @@
             <a href="https://www.detectachem.com product-info/mobile-detect/">Mobile Detect Pouch</a>
             The Mobile Detect app is a detector that can detect chemicals using
             </p>
-</div>
+    </div>
 
-<div id="Digital">
+<div id="Digital" class="container">
+
    <h1> Current Digital Evidence </h1>
            <p> <a href="https://www.salvationdata.com/knowledge/digital-forensics-software/
             https://www.sleuthkit.org/index.php"> Autopsy and Sleuth Kit:</a>
@@ -70,8 +78,8 @@
             <a href="https://www.visionations.com/crimepad_investigators">CrimePad:</a>
             An app used to log and categorize evidence and information
             </p>
-</div>
-</div>
+    </div>
+
 <div id=Gallery>
   <h1>Gallery</h1>
   <div id="carouselExampleIndicators" class="carousel slide">
@@ -117,6 +125,15 @@
             AI would help match DNA from evidence in crime scenes
             DNA analysis can take a long time and with AI helping this could drastically decrease this time.
             </p>
+</div>
+<div id= aframe>
+  <h1>A-frame</h1>
+  <div id="myEmbeddedScene">
+    <a-scene embedded>
+      <!-- ... -->
+       <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+    </a-scene>
+  </div>
 </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
