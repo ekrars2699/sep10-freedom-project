@@ -18,10 +18,10 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="#">Overview</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href=".current">Current Tech</a>
+                    <a class="nav-link" href="#Current">Current Tech</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#Gallery">Gallery</a>
@@ -39,7 +39,7 @@
     </head>
     <body>
         <!-- HTML -->
-<div class ="container text-center">
+<div class ="container-fluid text-center">
   <div class="row">
     <div class="col-sm">
         <h1> Forensic Science</h1>
@@ -50,8 +50,9 @@
   </div>
 </div>
 
-<div id="Physical" class="container">
-
+<div id="Current" class="container-fluid text-center">
+<div class="row">
+  <div class="col-md-6 ">
    <h1> Current Physical Evidence </h1>
            <p> <a href="https://www.excedr.com/blog/lab-equipment-list-for-forensic-analysis"> The Centrifuge:</a>
             One of the equipment listed are  Centrifuges, which freezes body fluids such as blood. This is mainly used to preserve biological evidence.
@@ -65,8 +66,9 @@
             </p>
     </div>
 
-<div id="Digital" class="container">
 
+<!-- <div id="Digital" class="container"> -->
+    <div class="col-md-6 ">
    <h1> Current Digital Evidence </h1>
            <p> <a href="https://www.salvationdata.com/knowledge/digital-forensics-software/
             https://www.sleuthkit.org/index.php"> Autopsy and Sleuth Kit:</a>
@@ -79,6 +81,8 @@
             An app used to log and categorize evidence and information
             </p>
     </div>
+</div>
+</div>
 
 <div id=Gallery>
   <h1>Gallery</h1>
@@ -110,7 +114,9 @@
   </div>
 </div>
 
-<div id="Future">
+<div id="Future" class="container-fluid">
+  <div class="row">
+    <div class="col-md-6">
    <h1> Future Technology </h1>
            <p> Automatic chemical scanner
             The scanner would scans chemicals in order to identify them
@@ -126,7 +132,7 @@
             DNA analysis can take a long time and with AI helping this could drastically decrease this time.
             </p>
 </div>
-<div id= aframe>
+<div class="col-md-6">
   <h1>A-frame</h1>
   <div id="myEmbeddedScene">
     <a-scene embedded>
@@ -134,6 +140,8 @@
        <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
     </a-scene>
   </div>
+</div>
+</div>
 </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
