@@ -56,7 +56,7 @@
 
 | Leo  |  I like how you explain your  future technolgoy and presenyt techonolgy very well | A grow is that you should add detail to your A-frame because i didnt understand a blue square
 
-|   |   |
+|  Edward  |  I like how you went deep into your topic. I also like how informative your website is, talking about stuff like the power encloure and explaning what it is.  |  A grow is that you should look at how your website looks when on a tablet screen size, it doesn't exactly all  fit onto the screen. Also your aframe kind of confused me, I don't really get what the square was meant to show.
 
 |   |   |
 
