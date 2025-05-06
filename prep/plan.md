@@ -46,10 +46,10 @@
 
 
 
-<!-- DO NOT USE THIS YET
+ DO NOT USE THIS YET
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| Alialrida | I like your background color;the green gives it a rightful taste as green means good and I like how you incoperated digital 3d and allowed others to play around with it. | I think you just need to make the font pixel size for the paragraphs slightly bigger but overall don't give up and you wil have good beyond mvp. |
 |   |   |
 |   |   |
 |   |   |
@@ -57,4 +57,4 @@
 |   |   |
 |   |   |
 
--->
+
