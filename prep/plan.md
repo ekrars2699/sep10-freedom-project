@@ -37,6 +37,13 @@
 * Task
   More components such as card.
   More colors
+  Work on a-frame
+  More responsive grid for tablets
+
+  Ranking:
+    1. More detailed A-frame
+    2. Make the site even more responsive for more devices like tablets etc..
+    3. Organize the paragraphs to condense it by either making them lists or making them bigger
   
 
 
