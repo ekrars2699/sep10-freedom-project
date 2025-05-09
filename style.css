@@ -1,7 +1,7 @@
  *{
     font-family: "Bitter", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: (weight);
     font-style: normal;
   }
 h1 {
@@ -10,33 +10,18 @@ h1 {
 }
 
 body {
-  background: #A6F4DC
+  background-image: linear-gradient(#A6F4DC, #E086D3,  #85FF9E, #79ADDC);
 }
 .carousel-inner img {
   margin: auto;
 }
-/*
-#Digital {
-  float:left;
-  width: 50%;
-}
-#Physical {
-  float: left;
-  width: 50%;
-}
-*/
+
 a-scene {
   height: 300px;
   width: 600px;
 }
-/*
-#Future {
-  float:left;
-  width: 60%
+
+p {
+  font-size:1.05rem ;
 }
-#aframe {
-  float:left;
-  width:40%
-}
-  */
-  
+
