@@ -4,13 +4,13 @@
 * Imagine if you were a detective and you were at a crime scene. How would you gather and use the evidence at the crime scene to find the criminal. You do that with forensic science!
 
 ## Product
-* 
+* I'll open a  link to my website and show the various things in it such as the technology. I'll also open up my a-frame model in order to show my future invention that I made using a-frame. I'll also change the size of the screen to show my mobile layout.
 
 ## Process
-* 
+* I'll have screenshots of my code snippets to show my code. I'll split it up into various parts each slide with a different part. I'll include a picture of my wireframe with it. 1 slide will be me explaining how my I made my html. 1 slide will be the bootstrap with the components and the grid that I used to make the mobile version of my site. Lastly I'll have a slide for my css to show things such as how I made the background.
 
 ## Conclusion
-* 
+* I'll summarize by saying "now thats how I made this site in order to show the various ways forensic scientists help many people solve crimes while being safe. My code helped me make this site easy for people to understand the various information I researched."
 
 <!-- EXAMPLE
 
