@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Imagine if you were a detective and you were at a crime scene. How would you gather and use the evidence at the crime scene to find the criminal. You do that with forensic science!
 
 ## Product
 * 
