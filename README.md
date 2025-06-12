@@ -19,11 +19,13 @@ My blog shows the steps of learning and making my website. My blog starts from t
 ## Implications
 ##### PROS
 * Informs people on forensic science, many people don't know what forensic science even is. Forensic science is an important subject, many crimes cannot be solved without forensic scientists. Forensic science helps make the world a safer place.
-* May clear up misinformation because many people don't know that there are scientists that help police and detectives gather and analyze evidence. Or they might not know 
-* My website may get people interested in forensic science, they may want to persue that career choice.
-*  
+* May clear up misinformation because many people don't know that there are scientists that help police and detectives gather and analyze evidence.
+* My website may get people interested in forensic science, they may want to persue that career choice. This may get people jobs on forensic science
+* The future invention that I created is able to help forensic scientists make their job easier and safer.
 ##### CONS
-* 
+* My website doesn't fully explain everything about forensic science, people will have to do more research to better understand the subject.
+* In order to be a forensic scientists a person needs many years of education, so it's a big time investment. This education can also be very expensive to do.
+
 
 
 ## Blog
